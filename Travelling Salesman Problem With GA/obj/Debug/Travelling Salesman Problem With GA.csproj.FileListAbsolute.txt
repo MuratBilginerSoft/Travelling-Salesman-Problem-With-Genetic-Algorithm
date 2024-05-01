@@ -1,0 +1,20 @@
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Travelling Salesman Problem With GA.exe.config
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Travelling Salesman Problem With GA.exe
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Travelling Salesman Problem With GA.pdb
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.AssemblyReference.cache
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.ResolveComReference.cache
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.exe
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.pdb
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrt_b\Desktop\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.CopyComplete
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Travelling Salesman Problem With GA.exe.config
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Travelling Salesman Problem With GA.exe
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\bin\Debug\Travelling Salesman Problem With GA.pdb
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.AssemblyReference.cache
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.ResolveComReference.cache
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.exe
+C:\Users\mrt_b\Desktop\Desktops\Travelling Salesman Problem With GA\Travelling Salesman Problem With GA\obj\Debug\Travelling Salesman Problem With GA.pdb
